@@ -129,7 +129,6 @@ namespace NDC.NStyle.Container
         public static Color RED_ALT_DARK = Color.FromRgb(0x00, 0x00, 0x00);
         public static Color YELLOW_ALT_DARK = Color.FromRgb(0x17, 0x17, 0x17);
         public static Color LIGHT_GREEN_ALT_DARK = Color.FromRgb(0x21, 0x23, 0x2F);
-        //public static Color LIGHT_GREEN_ALT_DARK = Color.FromRgb(0x14, 0x15, 0x23);
 
         public static Color _BLACK = Color.FromRgb(0x00, 0x00, 0x00);
         public static Color _WHITE = Color.FromRgb(0xFF, 0xFF, 0xFF);
