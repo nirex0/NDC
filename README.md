@@ -16,7 +16,7 @@ looking applications with awesome animations.
 Sadly, there is no Documentation Available 
 in the "Wiki" section as of yet, the only 
 way to put this API to use is to open the 
-"Startup Project" provided with this package 
+"NDC Based Project" provided with this package 
 in Visual studio and start working from there. 
 
 COPYRIGHT 
