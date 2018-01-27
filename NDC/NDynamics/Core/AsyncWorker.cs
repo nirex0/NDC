@@ -28,8 +28,6 @@ using System.ComponentModel;
 
 namespace NDC.NDynamics.Core
 {
-
-
     /// <summary>
     /// Class to call a function in a loop Based on a specific interval in an async state.
     /// </summary>
