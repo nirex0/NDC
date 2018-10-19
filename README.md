@@ -3,6 +3,11 @@ WELCOME
 
 Welcome to NDC(Nirex Designer Core), A Collection of the two discontinued projects IDL(Innovative Dynamic Lib) and NControl.
 
+NOTE
+====
+
+A New version may be coming out soon!
+
 INTRODUCTION
 ============
 
